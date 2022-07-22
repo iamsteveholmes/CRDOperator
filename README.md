@@ -1,4 +1,10 @@
 # crd-operator Project
+This Project is the Operator that consumes custom resource events and makes changes in the replicas of the deployment.  The application and Deployment it is operating on can be found here:
+[https://github.com/iamsteveholmes/PingPong](https://github.com/iamsteveholmes/PingPong)
+
+---
+
+## Technical Implementation
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
